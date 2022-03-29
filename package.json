@@ -1,0 +1,11 @@
+{
+  "name": "food-vision",
+  "version": "1.0.0",
+  "description": "A ML application that classified food images via their URL link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neil Ruaro",
+  "license": "ISC"
+}
